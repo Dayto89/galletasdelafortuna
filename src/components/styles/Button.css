@@ -9,3 +9,13 @@
     margin: 0 auto;
     margin-bottom: 20px;
 }
+
+.button:hover{
+    cursor: pointer;
+}
+
+@media (max-width: 767px){
+    .button{
+        font-size: 20px;
+    }
+}

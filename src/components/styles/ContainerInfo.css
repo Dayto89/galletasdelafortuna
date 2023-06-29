@@ -43,3 +43,16 @@
     transform: translateX(-50%);
 }
     
+@media (max-width: 767px){
+    .containerInfo__title{
+        font-size: 40px;
+    }
+
+    .containerInfo__phrase{
+        font-size: 25px;
+    }
+
+    .containerInfo__author{
+        font-size: 12px;
+    }
+}
